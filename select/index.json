@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヘテロスタシス",
+  "base_artist": "ChroNoiR",
+  "createdAt": "2026-03-01T06:24:24.090289Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘテロスタシス",
+      "artist": "ChroNoiR",
+      "has_synced": false,
+      "path": "select/pl_01_ヘテロスタシス_ChroNoiR.txt"
+    }
+  ]
+}
